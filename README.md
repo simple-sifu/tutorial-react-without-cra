@@ -15,3 +15,5 @@
    - npm i @babel/preset-react --save-dev (react plugin - es2015, add supports for jsx)
    - npm i @babel/preset-env --save-dev (js bundles smaller)
    - npm i html-webpack-plugin --save-dev (simplies html, add bundles files to html)
+
+   - webpack.config.js (entry file where webpack will create dependency graph)
